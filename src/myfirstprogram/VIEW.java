@@ -2,7 +2,7 @@
 package myfirstprogram;
 
 import java.util.ArrayList;
-//tite
+
 
 
  public class VIEW implements VIEWSTUDENT{
