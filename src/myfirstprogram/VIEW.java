@@ -2,7 +2,7 @@
 package myfirstprogram;
 
 import java.util.ArrayList;
-
+//tite
 
 
  public class VIEW implements VIEWSTUDENT{
@@ -17,6 +17,9 @@ import java.util.ArrayList;
         MyFirstProgram m = new MyFirstProgram();
     
         return  m.addStudent;
+    }
+    public static void callmemaybe(){
+        System.out.println("wala lang");
     }
 }
 
